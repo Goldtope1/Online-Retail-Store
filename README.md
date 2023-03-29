@@ -1,5 +1,7 @@
 # C-NET ONLINE RETAIL SALES REPORT  
 
+![](pexels_nataliya_vaitkevich_6214479.jpg)
+
 ## INTRODUCTION
 
 C-NET is an online retail store that sells household items to smaller retailers and end consumers. They have been in operation for 5 years. This data was provided to gain insight that would be valuable to the company as management want to analyse the major factors contributing to the revenue so they can strategically plan for next year. With expansion in mind, the company is also seeking guidance into areas that are performing well so they can keep clear focus on whats is working  
