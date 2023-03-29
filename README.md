@@ -24,7 +24,7 @@ Table Structuring, Data cleaning, powerQuery, Data Transformation, Data analysis
 - The data tyupe of the customer’s ID was changed from numbers to strings for proper identification. The changes were applied   and powerquery was closed 
 
 ## DATA VISUALIZATION & INSIGHTS 
-
+![]()
 As the first question, the CEO  requested a trend of the revenue to see if there is any seasonality in the store sales. My analysis shows that there are some months of the year where exceptional growth is witnessed. 
 
 The data shows that the revenue in the first 8 months is fairly constant as the average revenue generated for these 8 months is around $685k. The increase in revenue starts in the month of September, where the revenue increases by 40% over the previous month. This trend continues till the month of November where it reached 1.5 million USD, the highest during the entire year. The data is incomplete for the month of December, therefore, no conclusion can be drawn from it, unfortunately. This analysis shows that the retail store sales are impacted by the seasonality which usually occurs in the last 4 months of the year. 
